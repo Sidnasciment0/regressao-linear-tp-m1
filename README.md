@@ -17,11 +17,11 @@ Diante disso, a empresa contratou uma consultoria de tecnologia para auxiliar no
 É um algoritmo de **Machine Learning** para aprendizado supervisionado. A análise de regressão linear é usada para prever o valor de uma variável com base no valor de outra. A variável que deseja prever é chamada de variável dependente (y )e a variável que é usada para prever o valor de outra variável é chamada de variável independente (X).
 
 *Fórmula*
-![Equação](http://url/to/img/equação_rl.png)
+![Equação](http://url/to/img/equação_rl.png](https://github.com/Sidnasciment0/regressao-linear-tp-m1/blob/main/img/equa%C3%A7%C3%A3o_rl.png)
 
 Onde: 
-yi: Variável explicada (dependente); representa o que o modelo tentará prever;
-a: É uma constante, que representa a interceptação da reta com o eixo vertical;
-β: Representa a inclinação (coeficiente angular) em relação à variável explicativa;
-Xi: Variável explicativa (independente);
-ε: Representa todos os fatores residuais mais os possíveis erros de medição. É um termo erro aleatório com média μ zero e variância ơ2 constante.
+yi: Variável explicada (dependente); representa o que o modelo tentará prever; </br>
+a: É uma constante, que representa a interceptação da reta com o eixo vertical; </br>
+β: Representa a inclinação (coeficiente angular) em relação à variável explicativa; </br>
+Xi: Variável explicativa (independente); </br>
+ε: Representa todos os fatores residuais mais os possíveis erros de medição. É um termo erro aleatório com média μ zero e variância ơ2 constante. </br>
